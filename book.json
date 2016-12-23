@@ -11,4 +11,8 @@
     "splitter",
     "sitemap"
   ]
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "webpack-handbook"
+    },
 }
