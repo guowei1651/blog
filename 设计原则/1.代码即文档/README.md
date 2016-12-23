@@ -26,6 +26,8 @@
 
 在微服务设计中有API GateWay的设计也有很好的开源实现：[swagger.io] [2]，[tyk.io] [3]，[soapui.org] [4]，[getkong.org] [5]。
 
+[swagger.io] [2]
+
 [1]: https://serverless.com/ "serverless"
 [2]: http://swagger.io "swagger.io"
 [3]: http://tyk.io "tyk.io"
