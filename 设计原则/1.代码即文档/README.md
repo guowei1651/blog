@@ -22,6 +22,6 @@
 
 语言对**代码即文档**的支持有，python的pydoc，java的doc。他们都是直接从代码中扫描注释与代码完成生成的。
 
-在微服务系统每个微服务与其他微服务的通信都有API GateWay来实现，
+在微服务系统每个微服务与其他微服务的通信都有API GateWay来实现。
 
 [1]: https://serverless.com/ "serverless"
