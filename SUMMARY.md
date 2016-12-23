@@ -1,3 +1,3 @@
 # Table of content
 
-* [设计原则](chapter1.md)
+* [设计原则](设计原则/代码即文档.md)
