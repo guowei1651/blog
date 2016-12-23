@@ -14,5 +14,5 @@
   "pluginsConfig": {
     "disqus": {
       "shortName": "webpack-handbook"
-    },
+    }}
 }
