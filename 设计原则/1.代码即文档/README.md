@@ -24,4 +24,6 @@
 
 在微服务系统每个微服务与其他微服务的通信都有API GateWay来实现。因为微服务不像SOA架构一样对接口定义有严格的规范，并且在通信过程中还将规范通知服务请求方。所以，一般情况下微服务的API GateWay设计使用REST方式实现。
 
+
+
 [1]: https://serverless.com/ "serverless"
