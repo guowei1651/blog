@@ -26,7 +26,7 @@
 
 在微服务设计中有API GateWay的设计也有很好的开源实现：[swagger.io] [2]，[tyk.io] [3]，[soapui.org] [4]，[getkong.org] [5]。
 
-[swagger.io] [2]使用yaml作为配置生成API的服务端，客户端，接口文档。
+[swagger.io] [2]使用yaml作为配置生成API的服务端，客户端，接口文档。很强大，几乎完成了API GateWay所有功能。
 
 [1]: https://serverless.com/ "serverless"
 [2]: http://swagger.io "swagger.io"
