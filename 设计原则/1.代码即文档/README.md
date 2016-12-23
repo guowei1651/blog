@@ -28,6 +28,6 @@
 
 [1]: https://serverless.com/ "serverless"
 [2]: swagger.io "swagger.io"
-[3]:
+[3]: tyk.io "tyk.io"
 [4]:
 [5]
