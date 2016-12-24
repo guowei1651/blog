@@ -5,15 +5,11 @@
   "plugins": [
     "disqus",
     "github",
-    "editlink",
     "prism",
     "baidu",
     "splitter",
     "sitemap"
   ],
   "pluginsConfig": {
-    "disqus": {
-      "shortName": "blog-guo"
-    }
   }
 }
