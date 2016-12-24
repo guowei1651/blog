@@ -1,5 +1,11 @@
 {
   "title": "郭伟的blog",
   "description": "郭伟的blog",
-  "language": "zh"
+  "language": "zh",
+  "plugins": ["disqus"],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "blog-guo"
+    }
+  }
 }
