@@ -1,0 +1,19 @@
+{
+  "title": "郭伟的blog",
+  "description": "郭伟的blog",
+  "language": "zh",
+  "plugins": [
+    "disqus",
+    "github",
+    "editlink",
+    "prism",
+    "baidu",
+    "splitter",
+    "sitemap"
+  ],
+  "pluginsConfig": {
+    "disqus": {
+      "shortName": "blog-guo"
+    }
+  }
+}
