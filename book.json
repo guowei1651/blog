@@ -1,15 +1,5 @@
 {
   "title": "郭伟的blog",
   "description": "郭伟的blog",
-  "language": "zh",
-  "plugins": [
-    "disqus",
-    "github",
-    "prism",
-    "baidu",
-    "splitter",
-    "sitemap"
-  ],
-  "pluginsConfig": {
-  }
+  "language": "zh"
 }
