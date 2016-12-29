@@ -21,5 +21,7 @@
 
 做不到的还好说，不想做的有个比喻说的比较好：**永远叫不醒装睡的人**。如果你是哪个叫不醒的人那就不用再往下看了。
 
+
+
 [1]: http://www.martinfowler.com/ "马丁·富勒"
 [2]: http://www.martinfowler.com/articles/designDead.html "设计已死?"
