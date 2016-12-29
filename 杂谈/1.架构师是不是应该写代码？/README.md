@@ -23,7 +23,5 @@
 
 在这里剩下的都是对技术有追求、对知识有追求的人。回到本初，人活一世是为了什么？就是对知识的追求与对未知的探索。
 
-
-
 [1]: http://www.martinfowler.com/ "马丁·富勒"
 [2]: http://www.martinfowler.com/articles/designDead.html "设计已死?"
