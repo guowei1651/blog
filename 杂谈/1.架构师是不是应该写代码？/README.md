@@ -15,7 +15,7 @@
 我们需要不断的练习，再练习中不断的深化我们对知识的理解。并从中更深入的提炼出我们之前的经验。
 
 - **第三**
-
+架构设计最主要的是从前人与自己的经验中总结出经验。
 
 [1]: http://www.martinfowler.com/ "马丁·富勒"
 [2]: http://www.martinfowler.com/articles/designDead.html "设计已死?"
