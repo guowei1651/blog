@@ -11,7 +11,7 @@
 1. **第一**
 我们需要对业内新型的技术保持持续的关注，并从中总结它们的设计或者思想是不是可以应用到我们的系统中。
 
-- **第二**我们需要不断的练习，
+- **第二**我们需要不断的练习，因为在
 
 [1]: http://www.martinfowler.com/ "马丁·富勒"
 [2]: http://www.martinfowler.com/articles/designDead.html "设计已死?"
