@@ -9,3 +9,4 @@
 ```
 
 [1]: http://www.martinfowler.com/ "马丁·富勒"
+[2]: http://www.martinfowler.com/articles/designDead.html "设计已死"
