@@ -2,10 +2,15 @@
   "title": "郭伟的blog",
   "description": "郭伟的blog",
   "language": "zh",
-  "plugins": ["disqus"],
+  "plugins": ["disqus", "feed"],
   "pluginsConfig": {
     "disqus": {
       "shortName": "blog-guo"
+    },
+    "feed": {
+      "hostname": "https://yuanbin.gitbooks.io/test/content",
+      "title": "GitBook Test",
+      "author": "billryan"
     }
   },
   "pdf": {
