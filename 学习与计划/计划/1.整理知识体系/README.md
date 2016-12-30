@@ -25,3 +25,5 @@
 - SOLID
 - CQS
 - 分离关注点
+
+[1]: http://www.ituring.com.cn/book/1573 "微服务设计"
