@@ -30,7 +30,7 @@ GitBook有两种使用方式。一种是本地化使用，可以通过编辑工�
 - 编译发布文档，使用本地服务发布的方式其实很简单。因为GitBook本地编译与发布工具使用的是Node.js来完成，所以，都是脚本。弄起来就简单了。
  - 下载并安装[Node] [6]
  - 使用npm安装GitBook
-``` $ npm install gitbook -g ```或者使用[npm] [7]
+``` $ npm install gitbook -g ```
  - 安装完成之后即可使用```gitbook help```获取命令行帮助。
 ![build](gitbook_build.jpg)
  - 发布服务
@@ -67,4 +67,3 @@ GitBook有两种使用方式。一种是本地化使用，可以通过编辑工�
 [4]: https://zh.wikipedia.org/wiki/Markdown "Markdown"
 [5]: http://www.jianshu.com/ "简书"
 [6]: https://nodejs.org/en/#download "Node"
-[7]: npm.rar "npm"
