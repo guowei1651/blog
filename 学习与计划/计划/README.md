@@ -8,4 +8,4 @@
 每一项都需要有实施记录，以方便更快的进行跟踪。
 
 [1]: 1.整理知识体系/README.md "整理知识体系"
-[2]: https://serverless.com/ "serverless"
+[2]: 2.知识体系，敏捷个人，目标管理/README.md "整理知识体系"
