@@ -1,3 +1,8 @@
+架构原则：
+
+
+---------------------------------------------
+
 过程原则：
 
 1. "Do The Simplest Thing that Could Possibly Work"(只做
