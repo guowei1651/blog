@@ -20,7 +20,7 @@
 **过程原则：**
 
 1. "Do The Simplest Thing that Could Possibly Work"(只做最简单可以运行的设计) 出自XP。
-- "You Aren't Going to Need It"(就是 YAGNI - 你将不需要它)。出自XP。
+- "You Aren't Going to Need It"(就是 YAGNI - 你将不需要它)。出自XP。而 YAGNI 的觀點是假設你為了眼前的需要做設計而不是未來，這樣算是互相抵觸嗎？
 
 --------------------------------------------
 
