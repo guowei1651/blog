@@ -35,6 +35,5 @@ YAGNI 的觀點是不要增加一些現階段不需要的複雜功能，這也�
 - CQS
 - 分离关注点
 - CAP
-- 
 
 [1]: http://www.ituring.com.cn/book/1573 "微服务设计"
