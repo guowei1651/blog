@@ -40,8 +40,7 @@ YAGNI 的觀點是不要增加一些現階段不需要的複雜功能，這也�
 
 **其他：**
 
-1. 二阶提交协议（Two Phase Commitment Protocol）、三阶提交协议（Three Phase Commitment Protocol）和Paxos算法
-
+1. 二阶提交协议（Two Phase Commitment Protocol）、三阶提交协议（Three Phase Commitment Protocol）和Paxos算法。
 
 
 [1]: http://www.ituring.com.cn/book/1573 "微服务设计"
