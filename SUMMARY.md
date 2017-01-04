@@ -1,6 +1,6 @@
 # Summary
 
-* [介绍](README.md)
+1. [介绍](README.md)
 * [架构](架构/README.md)
     * [设计原则](1.设计原则/README.md)
         * [原则](1.设计原则/0.原则/README.md)
