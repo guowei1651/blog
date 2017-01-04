@@ -8,6 +8,7 @@
         * [概念完成性](1.设计原则/2.概念完整性/README.md)
     * [架构模式](架构/架构模式/README.md)
     * [分析与设计](架构/分析与设计/README.md)
+    * [设计模式](架构/设计模式/README.md)
 * [技术](技术/README.md)
     * [nodejs使用经验总结](技术/1.nodejs使用经验总结/README.md)
 * [过程管理](过程管理/README.md)
