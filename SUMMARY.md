@@ -12,6 +12,7 @@
     * [nodejs使用经验总结](技术/1.nodejs使用经验总结/README.md)
 * [过程管理](过程管理/README.md)
     * [计划与混乱](过程管理/1.计划与混乱/README.md)
+    * [过程改进](过程管理/2.过程改进/README.md)
 * [团队](团队/README.md)
     * [团队建设](团队/1.团队建设/README.md)
 * [杂谈](杂谈/README.md)
