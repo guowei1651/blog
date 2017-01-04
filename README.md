@@ -11,5 +11,5 @@ blog文章的汇总。我会慢慢整理这些年的blog，完成一个blog集�
 [1]: https://guowei1651.gitbooks.io/blog/content/feed.xml "feed"
 [2]: 团队/README.md "团队"
 [3]: 过程/README.md "过程"
-[4]: 技术/README.md "团队"
+[4]: 技术/README.md "技术"
 [5]: 架构/README.md "架构"
