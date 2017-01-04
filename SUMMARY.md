@@ -7,6 +7,7 @@
     * [概念完成性](设计原则/2.概念完整性/README.md)
 * [过程管理](过程管理/README.md)
     * [计划与混乱](过程管理/1.计划与混乱/README.md)
+* [架构](架构/README.md)
 * [技术](技术/README.md)
     * [nodejs使用经验总结](技术/1.nodejs使用经验总结/README.md)
 * [杂谈](杂谈/README.md)
