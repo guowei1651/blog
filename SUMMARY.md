@@ -1,14 +1,15 @@
 # Summary
 
 * [介绍](README.md)
-* [设计原则](设计原则/README.md)
-    * [原则](设计原则/0.原则/README.md)
-    * [代码即文档](设计原则/1.代码即文档/README.md)
-    * [概念完成性](设计原则/2.概念完整性/README.md)
 * [过程管理](过程管理/README.md)
     * [计划与混乱](过程管理/1.计划与混乱/README.md)
 * [架构](架构/README.md)
-    * []
+    * [设计原则](设计原则/README.md)
+        * [原则](设计原则/0.原则/README.md)
+        * [代码即文档](设计原则/1.代码即文档/README.md)
+        * [概念完成性](设计原则/2.概念完整性/README.md)
+    * [架构模式](架构/架构模式/README.md)
+    * [分析与设计](架构/分析与设计/README.md)
 * [技术](技术/README.md)
     * [nodejs使用经验总结](技术/1.nodejs使用经验总结/README.md)
 * [杂谈](杂谈/README.md)
