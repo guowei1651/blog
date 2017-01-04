@@ -11,7 +11,7 @@
     * [设计模式](架构/设计模式/README.md)
 * [技术](技术/README.md)
     * [nodejs使用经验总结](技术/1.nodejs使用经验总结/README.md)
-* [过程管理](过程/README.md)
+* [过程](过程/README.md)
     * [计划与混乱](过程/1.计划与混乱/README.md)
     * [过程改进](过程/2.过程改进/README.md)
 * [团队](团队/README.md)
