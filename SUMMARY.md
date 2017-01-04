@@ -1,6 +1,7 @@
 # Summary
 
 * [介绍](README.md)
+* [团队](团队/README.md)
 * [过程管理](过程管理/README.md)
     * [计划与混乱](过程管理/1.计划与混乱/README.md)
 * [架构](架构/README.md)
