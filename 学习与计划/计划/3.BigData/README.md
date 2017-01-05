@@ -10,7 +10,7 @@
 |google big table||||||hbase|
 |google chubby ||||||zookeeper|
 |google dapper|||||||
-|google Sawzall||||||pig、Hive|
+|google Sawzall||||||pig、hive|
 |SMQA||||||
 
 
