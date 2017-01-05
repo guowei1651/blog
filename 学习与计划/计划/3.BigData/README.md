@@ -9,7 +9,7 @@
 |google big table||||||
 |google chubby ||||||
 |google dapper||||||
-|海量数据分析： Sawzall 并行处理|
+|google Sawzall|||||
 |SMQA||||||
 
 
