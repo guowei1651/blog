@@ -11,4 +11,6 @@
 |google dapper||||||
 
 
-http://duanple.blog.163.com/blog/static/709717672011330101333271/
+大数据方面的总结：[duanple] [1]
+[1]: 
+http://duanple.blog.163.com/blog/static/709717672011330101333271/ "duanple"
