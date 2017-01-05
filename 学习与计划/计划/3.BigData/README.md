@@ -11,7 +11,7 @@
 |google big table||||||hbase|
 |google chubby ||||||zookeeper|
 |google dapper||||||twitter zipkin、Dubbo，淘宝 EagleEye|
-|google Sawzall||||||pig、hive|
+|google sawzall||||||pig、hive|
 |SMQA||||||||
 
 
