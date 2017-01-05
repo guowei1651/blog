@@ -3,7 +3,7 @@
 要使所有的东西都可以落地，必须有进一步详细的计划进行实施指导。
 
 |学习|状态|开始|结束|预期|输出|开源 or 备注|
-|---|---|---|---|---|---|---|
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |google cluster|||||||
 |google file system||||||hdfs|
 |google file system II||||||Dawn of the Multiplying Master Nodes|
