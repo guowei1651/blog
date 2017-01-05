@@ -12,7 +12,7 @@
 |google chubby ||||||zookeeper|
 |google dapper||||||twitter zipkin、Dubbo，淘宝 EagleEye|
 |google sawzall||||||pig、hive|
-|SMQA|||||||Lambda架构，kappa架构|
+|SMQA||||||Lambda架构，kappa架构||
 
 
 其他相关方向：
