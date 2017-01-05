@@ -6,3 +6,4 @@
 |---|---|---|---|---|---|
 |google file system||||||
 |google map reduce||||||
+|google big table||||||
