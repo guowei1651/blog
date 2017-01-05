@@ -4,12 +4,12 @@
 
 |学习|状态|开始|结束|预期|输出|开源|
 |---|---|---|---|---|---|---|
-|google cluster||||||
-|google file system||||||
-|google map reduce||||||
-|google big table||||||
-|google chubby ||||||
-|google dapper||||||
+|google cluster|||||||
+|google file system||||||hdfs|
+|google map reduce||||||mapreduce|
+|google big table||||||hbase|
+|google chubby ||||||zookeeper|
+|google dapper|||||||
 |google Sawzall||||||
 |SMQA||||||
 
