@@ -23,8 +23,6 @@
 |google tenzing||||||Tenzing是一个建立在MapReduce之上的用于Google数据的ad hoc分析的查询引擎。Tenzing提供了一个具有如下关键特征的完整SQL实现(还具有几个扩展)：异构性，高性能，可扩展性，可靠性，元数据感知，低延时，支持列式存储和结构化数据，容易扩展。|
 |CAP||||||cap理论，Paxos等|
 
-
-
 大数据方面的总结：[duanple] [1]
 
 [1]: http://duanple.blog.163.com/blog/static/709717672011330101333271/ "duanple"
