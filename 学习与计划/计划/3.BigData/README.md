@@ -10,7 +10,7 @@
 |google map reduce||||||mapreduce|
 |google big table||||||hbase|
 |google chubby ||||||zookeeper|
-|google dapper||||||twitter zipkin、|
+|google dapper||||||twitter zipkin、Dubbo，淘宝 EagleEye|
 |google Sawzall||||||pig、hive|
 |SMQA|||||||
 
