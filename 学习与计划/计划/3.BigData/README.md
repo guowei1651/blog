@@ -6,6 +6,7 @@
 |---|---|---|---|---|---|---|
 |google cluster|||||||
 |google file system||||||hdfs|
+|Google File System II|||||
 |google map reduce||||||mapreduce|
 |google big table||||||hbase|
 |google chubby ||||||zookeeper|
