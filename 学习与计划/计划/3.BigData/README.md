@@ -11,7 +11,7 @@
 |google chubby ||||||zookeeper|
 |google dapper|||||||
 |google Sawzall||||||pig、hive|
-|SMQA||||||
+|SMQA|||||||
 
 
 其他相关方向：
