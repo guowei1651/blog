@@ -9,3 +9,6 @@
 |google big table||||||
 |google chubby ||||||
 |google dapper||||||
+
+
+http://duanple.blog.163.com/blog/static/709717672011330101333271/
