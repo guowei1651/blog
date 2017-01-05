@@ -4,7 +4,7 @@
 
 |学习|状态|开始|结束|预期|输出|
 |---|---|---|---|---|---|
-|||||||
+|google Cluster||||||
 |google file system||||||
 |google map reduce||||||
 |google big table||||||
