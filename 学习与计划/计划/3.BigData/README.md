@@ -6,7 +6,7 @@
 |---|---|---|---|---|---|---|
 |google cluster|||||||
 |google file system||||||hdfs|
-|Google File System II||||||Dawn of the Multiplying Master Nodes|
+|google file system II||||||Dawn of the Multiplying Master Nodes|
 |google map reduce||||||mapreduce|
 |google big table||||||hbase|
 |google chubby ||||||zookeeper|
