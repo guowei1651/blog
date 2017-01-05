@@ -9,7 +9,7 @@
 |google big table||||||
 |google chubby ||||||
 |google dapper||||||
-|SMQA|
+|SMQA||||||
 
 
 其他相关方向：
