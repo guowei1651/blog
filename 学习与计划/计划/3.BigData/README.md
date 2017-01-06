@@ -4,7 +4,7 @@
 
 |学习|状态|开始|结束|预期|输出|开源 or 备注|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|google cluster|||||||
+|google cluster|||||介绍google使用廉价pc集群完成大规模处理需求的理论基础。并简单介绍了google 搜索的业务特点，位置后的GFS的开发前提打基础。||
 |google file system||||||hdfs|
 |google file system II||||||Dawn of the Multiplying Master Nodes|
 |google map reduce||||||mapreduce|
