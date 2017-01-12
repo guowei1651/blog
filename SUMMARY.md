@@ -24,7 +24,7 @@
     * [我认为的软件](杂谈/5.我认为的软件/README.md)
     * [大数据学习](杂谈/6.大数据学习/README.md)
         * [GFS](杂谈/6.大数据学习/1.GFS/README.md)
-        * [BigTable](杂谈/6.大数据学习/1.BigTable/README.md)
+        * [BigTable](杂谈/6.大数据学习/2.BigTable/README.md)
 * [学习与计划](学习与计划/README.md)
     * [学习](学习与计划/学习/README.md)
     * [计划](学习与计划/计划/README.md)
