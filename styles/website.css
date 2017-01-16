@@ -10,42 +10,38 @@ color: #990066;
 color: #cc3399;
 }
 
-.a_plus_plus {
+.b_plus_plus {
 color: #ff0077;
 }
 
-.a_plus {
+.b_plus {
 color: #ff0000;
 }
 
-.a {
+.b {
 color: #ff6666;
 }
 
-.b_plus_plus {
+.c_plus_plus {
 color: #ffff33;
 }
 
-.b_plus {
+.c_plus {
 color: #ffff99;
 }
 
-.b {
+.c {
 color: #ffffcc;
 }
 
-.c_plus_plus {
+.d_plus_plus {
 color: #33cc33;
 }
 
-.c_plus {
+.d_plus {
 color: #99cc33;
 }
 
-.c {
+.d {
 color: #ccffcc;
-}
-
-.c_plus_plus {
-color: #33cc33;
 }
