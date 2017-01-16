@@ -3,7 +3,7 @@
   "description": "郭伟的blog",
   "language": "zh",
   "styles": {
-    "website": "styles/website.css",
+    "website": "styles/website.css"
   },
   "plugins": ["disqus", "feed"],
   "pluginsConfig": {
