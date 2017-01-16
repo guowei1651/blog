@@ -5,7 +5,7 @@
   "styles": {
     "website": "styles/website.css"
   },
-  "plugins": ["disqus", "feed"],
+  "plugins": ["disqus", "feed", ""mermaid""],
   "pluginsConfig": {
     "disqus": {
       "shortName": "blog-guo"
