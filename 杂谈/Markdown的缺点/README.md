@@ -1,3 +1,3 @@
 # Markdown的缺点
 
-也不能说是Markdown的缺点。其实Markdown的定位就是一种轻量级的标记，不能和TeX或者Sphinx那么强大的排版工具进行比较。
+也不能说是Markdown的缺点。其实Markdown的定位就是一种轻量级的标记，不能和TeX或者Sphinx那么强大的排版工具进行比较。不过也因为Markdown的不足GitBook对其的扩展下了一番心思，它们开发了css的使用，可以使用各式各样的插件，如果还不过还可以自定义插件。
