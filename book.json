@@ -2,6 +2,13 @@
   "title": "郭伟的blog",
   "description": "郭伟的blog",
   "language": "zh",
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
   "plugins": ["disqus", "feed"],
   "pluginsConfig": {
     "disqus": {
