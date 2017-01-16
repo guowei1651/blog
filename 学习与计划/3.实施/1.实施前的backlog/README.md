@@ -1,5 +1,6 @@
 <!--用于在Github上显示颜色 -->
 <link rel="stylesheet" href="/styles/website.css">
+<script src="../../styles/website.css"
 
 # 准备实施
 
