@@ -1,3 +1,3 @@
 # Markdown的缺点
 
-也不能说是Markdown的缺点。其实Markdown的定义就是一种轻量级的标记
+也不能说是Markdown的缺点。其实Markdown的定位就是一种轻量级的标记，不能和TeX或者Sphinx那么强大的排版工具进行比较。
