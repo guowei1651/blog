@@ -7,6 +7,7 @@ graph TD;
   C-->A;
   A-->P;
 {% endmermaid %}
+
 PDCA是英语单词Plan(计划)、Do(执行)、Check(检查)和Action(纠正)的第一个字母，PDCA循环就是按照这样的顺序进行质量管理，并且循环不止地进行下去的科学程序。
 1、P (plan) 计划，包括方针和目标的确定，以及活动规划的制定。
 PDCA环
