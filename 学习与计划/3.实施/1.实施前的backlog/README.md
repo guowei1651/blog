@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="styel.css">
+<link rel="stylesheet" href="sytle.css">
 
 # 准备实施
 
