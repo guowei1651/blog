@@ -7,9 +7,17 @@ color: #ff0000;
 }
 
 .a {
-color: #ff6666
+color: #ff6666;
 }
 
 .b_plus_plus {
-color: #ff6666
+color: #ffff33;
+}
+
+.b_plus {
+color: #ffff99;
+}
+
+.b_plus {
+color: #ffffcc;
 }
