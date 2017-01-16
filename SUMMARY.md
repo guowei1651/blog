@@ -25,6 +25,7 @@
     * [大数据学习](杂谈/6.大数据学习/README.md)
         * [GFS](杂谈/6.大数据学习/1.GFS/README.md)
         * [BigTable](杂谈/6.大数据学习/2.BigTable/README.md)
+    * [Markdown的缺点](杂谈/7.Markdown的缺点/README.md)
 * [学习与计划](学习与计划/README.md)
     * [学习](学习与计划/1.学习/README.md)
     * [计划](学习与计划/2.计划/README.md)
