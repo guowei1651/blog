@@ -11,10 +11,10 @@
 
 |子故事|描述|子优先级|子重要性|
 |:-:|:-|:-:|:-:|
-|设计模式|按照设计模式分类进行设计模式的重新整理与学习|<div class="a_plus_plus">A++</div>|<div class="a">A</div>|
-|分析与设计方法|学习各种软件建模方法。结构化分析与设计方法，面向对象的分析与设计方法，DDD等等|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
-|架构模式|学习各种各样的架构模式，丰富架构知识|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
-|总结与学习各种原则|设计原则，架构原则等，并进一步思考代码与架构的统一问题。|<div class="a">A</div>|<div class="a_plus_plus">A++</div>|
+|[设计模式] [2]|按照设计模式分类进行设计模式的重新整理与学习|<div class="a_plus_plus">A++</div>|<div class="a">A</div>|
+|[分析与设计方法] [3]|学习各种软件建模方法。结构化分析与设计方法，面向对象的分析与设计方法，DDD等等|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
+|[架构模式] [4]|学习各种各样的架构模式，丰富架构知识|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
+|[总结与学习各种原则] [5]|设计原则，架构原则等，并进一步思考代码与架构的统一问题。|<div class="a">A</div>|<div class="a_plus_plus">A++</div>|
 
 ----------------------------------
 
@@ -42,3 +42,6 @@
 
 [1]: /学习与计划/3.实施/1.实施前的backlog/README.md#整理架构师知识体系 "架构师知识结构整理"
 [2]: /学习与计划/3.实施/1.实施前的backlog/README.md#设计模式 "设计模式"
+[3]:
+[4]:
+[5]:
