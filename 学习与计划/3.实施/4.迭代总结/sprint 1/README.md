@@ -10,7 +10,7 @@
 从实施前的backlog取出，优先级和重要性都很高的[架构师知识结构整理] [1]。来进行拆分。
 
 |子故事|描述|子优先级|子重要性|
-|:-:|:-:|:-:|:-:|
+|:-:|:-|:-:|:-:|
 |设计模式|按照设计模式分类进行设计模式的重新整理与学习|<div class="a_plus_plus">A++</div>|<div class="a">A</div>|
 |分析与设计方法|学习各种软件建模方法。结构化分析与设计方法，面向对象的分析与设计方法，DDD等等|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
 |架构模式|学习各种各样的架构模式，丰富架构知识|<div class="a_plus">A+</div>|<div class="a_plus_plus">A++</div>|
