@@ -20,4 +20,44 @@
 |5|mybatis|研究mybatis中的一些异常点，比如:CURD失败后怎么报错，连接超时之后怎么报错，没有字段，或者多字段怎么处理|<lable class="a_plus">A+</lable>|<lable class="a_plus">A+</lable>||
 
 
-
+kjdfkj
+sdfadf
+asdf
+ad
+adf
+adf
+ad
+fa
+sd
+fa
+d
+fa
+sdf
+asd
+fa
+d
+fa
+d
+a
+df
+a
+df
+ad
+fa
+d
+fa
+df
+a
+df
+a
+df
+ad
+fa
+d
+fa
+df
+a
+df
+a
+fd
+asdf
